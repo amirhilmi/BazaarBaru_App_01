@@ -1,6 +1,6 @@
 # BB Apps
 
-The unfinished task on designing food delivery app.
+The unfinished attempt on designing food delivery app.
 
 ## Adobe XD sketch
 
