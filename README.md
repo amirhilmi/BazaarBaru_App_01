@@ -24,7 +24,7 @@ Inspired by [Resocoder Domain Drive Design architecture](https://github.com/Reso
 ## Code (Flutter)
 Inspired by [Resocoder Domain Drive Design](https://github.com/ResoCoder/finished-flutter-firebase-ddd-course)
 
-A very limited progress made on Entity OrderId. 
+A very limited progress made on Entity OrderId on Layer Domain. Future developers are advised to complete other Entity Objects such as OrderStatus and OrderItem before passing on next layer - Application 
 
 ![](Code-Flutter.GIF)
 
